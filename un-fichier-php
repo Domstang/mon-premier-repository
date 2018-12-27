@@ -4,5 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Voilà du code PHP</p>'; ?>
+ <?php echo '<p>Un deuxième paragraphe</p>'; ?>
  </body>
 </html>
