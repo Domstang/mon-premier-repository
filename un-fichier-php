@@ -1,0 +1,8 @@
+<html>
+ <head>
+  <title>Un fichier PHP</title>
+ </head>
+ <body>
+ <?php echo '<p>Voilà du code PHP</p>'; ?>
+ </body>
+</html>
